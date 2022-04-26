@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, Image, FlatList } from 'react-native';
+import {Text, View, FlatList } from 'react-native';
 
 
 export default StatesApp = () => {
